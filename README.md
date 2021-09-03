@@ -1,3 +1,1 @@
-### Quarter Front End 👋
-### Quarter Back End 👋
---Kevin Rivaldo Panggabean--
+Hi, my name Kevin Rivaldo Panggabean. I like to code, These repositories contain my project.
