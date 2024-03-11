@@ -5,5 +5,5 @@ Hi, my name Kevin Rivaldo Panggabean. These repositories contain my project.
 
 
 <p align="center">
-  <a href="https://www.instagram.com/kevinrivaldop15/" title="@krpauto" target="blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@krpautp" /></a>
+  <a href="https://www.instagram.com/warung.krp2" title="@krpauto" target="blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@warung.krp2" /></a>
   <a href="https://www.linkedin.com/in/kevinrivaldopanggabean/" title="Kevin Rivaldo Panggabean" target="blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Rivaldo Panggabean" /></a>
